@@ -1,4 +1,4 @@
-//C++ Program to convert decimal to hexadecimal
+//convert decimal to hexadecimal
 
 #include <bits/stdc++.h>
 using namespace std;
